@@ -96,20 +96,16 @@ Passionné par l'informatique depuis toujours, j'ai obtenu un BTS SIO en systèm
     - Inscription avec collecte des informations de consentement (contact et partage de données).
     - Authentification via JSON Web Token (JWT).
     - Suppression de compte utilisateur avec anonymisation des données liées.
-  
   - Gestion des Projets :
     - Création, modification et suppression de projets.
     - Attribution de contributeurs aux projets.
-
   - Gestion des Issues :
     - Création, modification et suppression des issues.
     - Assignation des issues à des utilisateurs spécifiques.
     - Priorisation et catégorisation des issues.
-
   - Gestion des Commentaires :
     - Ajout de commentaires aux issues.
     - Modification et suppression des commentaires par leur auteur.
-
 - **Lien :** [Repository](https://github.com/El-GuiGui/P10-Creez-une-API-securisee-RESTful-en-utilisant-Django-REST)
 
 
