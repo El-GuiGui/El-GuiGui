@@ -138,4 +138,16 @@ Passionné par l'informatique depuis toujours, j'ai obtenu un BTS SIO en systèm
 
 > * * * 
 
+### Projet : ["Mettez à l'échelle une application Django en utilisant une architecture modulaire"](https://github.com/El-GuiGui/P13-Mettez-a-l-echelle-une-application-Django-en-utilisant-une-architecture-modulaire)
+- **Description :** Orange County Lettings est un site web permettant de gérer des profils et des locations. Cette documentation couvre la configuration pour le développement local, le linting, les tests unitaires, et l'interaction avec la base de données et le panneau d'administration.
+- **Technologies :** Django, Sentry, Render
+- **langages :** Python, css, html
+- **Fonctionnalités principales :**
+  - Amélioration de l’architecture modulaire
+  - Réduction de divers problèmes sur le projet
+  - Surveillance de l’application et suivi des erreurs via Sentry
+  - Pipeline CI/CD et le déploiement
+  - Documentation de l’application : [ici](https://orange-county-lettings-documentation-lg.readthedocs.io/fr/latest/index.html)
+- **Lien :** [Repository](https://github.com/El-GuiGui/P13-Mettez-a-l-echelle-une-application-Django-en-utilisant-une-architecture-modulaire)
 
+> * * * 
